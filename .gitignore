@@ -1,0 +1,13 @@
+back-end/
+front/build/
+front/src/
+front/node_modules/
+front/public/
+front/package.json
+front/procfile
+front/yarn-error.log
+front/yarn.lock
+front/dist/win-unpacked/
+front/dist/builder-debug.yml
+front/dist/builder-effective-config.yaml
+front/dist/auto_cord_bot Setup 0.1.0.exe.blockmap
