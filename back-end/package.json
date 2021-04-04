@@ -1,0 +1,17 @@
+{
+  "name": "auto_cord_server",
+  "version": "1.0.0",
+  "description": "A nodejs server that run the bot",
+  "main": "index.js",
+  "author": "Digiox",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "puppeteer": "^8.0.0"
+  },
+  "scripts": {
+    "start-server": "node index"
+  }
+}
